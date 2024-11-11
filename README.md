@@ -117,8 +117,31 @@ control structures:
 
 loops:
 -->for loop: used to execute a block of code repeatedly for a specified number of times
+syntax:
+for (initialization; condition; increment/decrement)
+{
+  // code to be executed
+  }
+
 -->while loop: used to execute a block of code repeatedly while a condition is true
+syntax:
+while (condition)
+{
+  // code to be executed
+  }
+
+
 -->do-while loop: used to execute a block of code repeatedly while a condition is true
+syntax:
+do
+{
+  // code to be executed
+  }
+  while (condition);
+  -->foreach loop: used to iterate over a collection of items
+  syntax:
+  foreach (variable in collection)
+  
 
 
 

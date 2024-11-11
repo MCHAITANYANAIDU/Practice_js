@@ -23,7 +23,7 @@ variables are like containers which are used to store the data and manipulate th
  -------------------------------------------------------------------------------
 HOISTING:
 -->variables declarations are hoisted to the top of thier scope during the compilation phase,but thier assignments remains where they are...
-------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
 DATA TYPES:
 -->Primitive datatypes
 -->non-primitive datatypes

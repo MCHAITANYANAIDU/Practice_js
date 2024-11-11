@@ -123,6 +123,16 @@ for (initialization; condition; increment/decrement)
   // code to be executed
   }
 
+
+<!-- n=+prompt("enter the value:")
+for(i=0;i<=10;i++)
+    {
+        // console.log(n*i);
+        console.log(n+"*"+i+"="+n*i)
+        } -->
+
+
+
 -->while loop: used to execute a block of code repeatedly while a condition is true
 syntax:
 while (condition)
@@ -141,7 +151,7 @@ do
   -->foreach loop: used to iterate over a collection of items
   syntax:
   foreach (variable in collection)
-  
+
 
 
 

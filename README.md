@@ -94,6 +94,32 @@ ASSIGNMENT OPERATOR:
 -->bitwise NOT assignment: a ^= b
 ---------------------------------------------------------------------------------------------------------------
 
+conditional statements:
+-->if statement: used to execute a block of code if a condition is true
+-->if-else statement: used to execute a block of code if a condition is true, otherwise
+execute another block of code
+-->switch statement: used to execute a block of code based on the value of a variable
+-->try-catch statement: used to handle exceptions and errors in the code
+-->nested if else
+
+
+---------------------------------------------------------------------------------------------------------------
+control structures:
+-->loops: used to execute a block of code repeatedly
+-->conditional statements: used to execute a block of code based on a condition
+-->break statement: used to exit a loop or switch statement
+-->continue statement: used to skip the current iteration of a loop
+-->pass statement: used to do nothing and continue with the next line of code
+-->return statement: used to exit a function and return a value
+-->goto statement: used to jump to a specific label in the code
+-->yield statement: used to pause the execution of a function and resume it later
+
+
+loops:
+-->for loop: used to execute a block of code repeatedly for a specified number of times
+-->while loop: used to execute a block of code repeatedly while a condition is true
+-->do-while loop: used to execute a block of code repeatedly while a condition is true
+
 
 
 

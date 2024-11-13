@@ -99,6 +99,17 @@ conditional statements:
 -->if-else statement: used to execute a block of code if a condition is true, otherwise
 execute another block of code
 -->switch statement: used to execute a block of code based on the value of a variable
+syntax:
+switch(expression) {
+  case value1:
+  // code to be executed if expression == value1
+  break;
+  case value2:
+  // code to be executed if expression == value2
+  break;
+  default:
+  // code to be executed if expression does not match any case value
+  
 -->try-catch statement: used to handle exceptions and errors in the code
 -->nested if else
 
